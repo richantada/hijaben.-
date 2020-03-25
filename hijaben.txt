@@ -12,9 +12,9 @@ https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",RCTI HD1
 https://m.vidio.com/live/665-rcti-tv-stream
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",SCTV
-http://id1.indostreamingtv.com/live/sctv/index.m3u8
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w446993068_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",GLOBALTV HD
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
+https://m.vidio.com/live/778-gtv
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TV ONE HD
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TRANS7 HD
