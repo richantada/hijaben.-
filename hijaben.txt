@@ -2,7 +2,7 @@
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TVRI
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",ANTV
-http://id2.indostreamingtv.com/live/antv/index.m3u8
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1174545310_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",INDOSIAR
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TRANS TV HD
