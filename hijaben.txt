@@ -1,19 +1,19 @@
 ﻿#EXTM3U
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TVRI
-https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",ANTV
+#EXTINF:-1  tvg-logo=tps:"http://images.useetv.com/logo_tvri_big1.png" group-title="TV NASIONAL",TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w814631736_b684100_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1174545310_b894100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",INDOSIAR
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL",INDOSIAR
 https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1665264182_b894100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TRANS TV HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL",TRANS TV HD
 https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1403851401_b684100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",Trans TV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL",Trans TV
 https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1571798094~exp=9007200826539085~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_0/chunklist.m3u8*~hmac=406ce5a72d357700e9c8c66845e044b3537ffa9f91795a15876033ddf852a143
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",RCTI HD1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="TV NASIONAL",RCTI HD1
 https://etslive-2-vidio-com.akamaized.net/exp=1585159206~acl=/hls-p/ingest_665_*/*~hmac=f98570f7691ad2e5ca7766227245130294ba5a59494c961e3a33f1f182de7bc9/hls-p/ingest_665_720p/index.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",SCTV
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV NASIONAL",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w446993068_b894100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",GLOBALTV HD
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV HD
 https://etslive-2-vidio-com.akamaized.net/exp=1585159203~acl=/hls-p/ingest_778_*/*~hmac=7f38bb9841c90f55bb4a83ebc52b754efae80e8f6eac02a95ad39e163e019c44/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",TV ONE HD
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
