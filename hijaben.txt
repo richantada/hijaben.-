@@ -19,12 +19,10 @@ https://etslive-2-vidio-com.akamaized.net/exp=1585213205~acl=/hls-p/ingest_778_*
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1812792091_b494100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL",TRANS7 HD
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1726935617_b494100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",NET TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+#EXTINF:-1  tvg-logo="http://cdn.gresnews.com/showimg.php?size=view&imgname=20121117Logo%20MetroTV-img.web.id.jpg" group-title="TV NASIONAL",METRO TV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w689368861_b684100_sleng.m3u8
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/VkpzdWLx/nettv.png" group-title="TV NASIONAL",NET TV
+https://vcdnjt.useetv.com/joss/15/net/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",RTV
 http://210.210.155.35/qwr9ew/s/s12/index2.m3u8?token=ireg.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL", KOMPAS TV
