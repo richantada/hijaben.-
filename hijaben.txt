@@ -29,9 +29,9 @@ https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1905872664_b684100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1521110774_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="TV NASIONAL", KOMPAS TV
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1521110774_b894100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",BERITA SATU
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/8b/Logo_BeritaSatu_TV.png" group-title="TV NASIONAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",CNN INDONESIA HD
+#EXTINF:-1  tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="TV NASIONAL",CNN INDONESIA HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",MOLA TV
 http://ventdelnord.tv:8080/mola/directe.m3u8
