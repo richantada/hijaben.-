@@ -25,10 +25,10 @@ https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w689368861_b684100_sleng.m3u
 https://vcdnjt.useetv.com/joss/15/net/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="TV NASIONAL",RTV
 https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1905872664_b684100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL", KOMPAS TV
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
-#EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL", KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8?token=ireg.m3u8
+#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="TV NASIONAL", KOMPAS TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1521110774_b894100_sleng.m3u8
+#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="TV NASIONAL", KOMPAS TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1521110774_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 #EXTINF:-1  tvg-logo="https://hijaben.insomnia247.nl/iptv/Yt.png" group-title="TV NASIONAL",CNN INDONESIA HD
