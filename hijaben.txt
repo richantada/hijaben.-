@@ -14,7 +14,7 @@ https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV NASIONAL",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w446993068_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1585213205~acl=/hls-p/ingest_778_*/*~hmac=98d96f33955e0c28a461ff5976310a6d545a987401628ec63bc93465ae6cceb7/hls-p/ingest_778_720p/index.m3u8
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="TV NASIONAL",TV ONE HD
 https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1812792091_b494100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL",TRANS7 HD
