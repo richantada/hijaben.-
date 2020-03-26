@@ -10,7 +10,7 @@ https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w1403851401_b684100_sleng.m3
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL",Trans TV
 https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1571798094~exp=9007200826539085~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_0/chunklist.m3u8*~hmac=406ce5a72d357700e9c8c66845e044b3537ffa9f91795a15876033ddf852a143
 #EXTINF:-1  tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="TV NASIONAL",RCTI HD1
-https://etslive-2-vidio-com.akamaized.net/exp=1585209491~acl=/hls-p/ingest_665_*/*~hmac=61680ff506f6010200d769926c79ce5afb761d6b28076e17be8f8b60682c79c4/hls-p/ingest_665_720p/index.m3u8
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV NASIONAL",SCTV
 https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w446993068_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV HD
