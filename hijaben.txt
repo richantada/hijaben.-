@@ -1165,4 +1165,121 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8#EXTM3U
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C08D27C9766035E330AEBA3&profile=pass
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", B4U MOVIES
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eczHEg5.png?1" group-title="UseeTV Playlist",Setting Decoder | Solusi tidak bisa buka channel
+https://dl.dropbox.com/s/6dcquvgcyd6fz67/Decoder2.mp4?dl=0
+#EXTINF:-1 tvg-id="Beinsport1.id" tvg-logo="https://i.imgur.com/ys7sROq.png" group-title="UseeTV Playlist",beIN Sport 1 ID | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv003.m3u8
+#EXTINF:-1 tvg-id="Beinsport2.id" tvg-logo="https://i.imgur.com/Dsp8IIw.png" group-title="UseeTV Playlist",beIN Sport 2 ID | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv002.m3u8
+#EXTINF:-1 tvg-id="Beinsport3.id" tvg-logo="https://i.imgur.com/i3phuM2.png" group-title="UseeTV Playlist",beIN Sport 3 ID | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv001.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VjAIFiE.png" group-title="UseeTV Playlist",Ruang Terampil*
+https://dl.dropbox.com/s/r6k06vq0sh5og9r/offline.mp4?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BcXFlG7.png" group-title="UseeTV Playlist",Usee Photo*
+https://dl.dropbox.com/s/yrtty24zo5tza5s/useephoto.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OvK16mw.png" group-title="UseeTV Playlist",Usee Prime*
+https://dl.dropbox.com/s/y0jk8ygflfw2plr/useeprime.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Playlist",Usee Sport*
+https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Playlist",Fox Sport 2
+https://dl.dropbox.com/s/pe1cnxt5vczqer1/foxsport2.m3u8?dl=0
+#EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="UseeTV Playlist",Fox Sport 3
+https://dl.dropbox.com/s/ztboeg6qqbe4fni/foxsport3.m3u8?dl=0
+#EXTINF:-1 tvg-id="I218.14899.schedulesdirect.org" tvg-logo="https://i.imgur.com/VYmO8di.png" group-title="UseeTV Playlist",Golf+
+https://dl.dropbox.com/s/2baf588i4imy0ux/golf.m3u8?dl=0
+#EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-logo="https://i.imgur.com/ehzozeE.png" group-title="UseeTV Playlist",NBA
+https://dl.dropbox.com/s/q7305cobr99toiy/nba.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2VDagnB.png" group-title="UseeTV Playlist",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu.id" tvg-logo="https://i.imgur.com/MAqagBW.png" group-title="UseeTV Playlist",Berita Satu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:-1 tvg-id="I512.60961.schedulesdirect.org" tvg-logo="https://i.imgur.com/rbiqxxR.png" group-title="UseeTV Playlist",France 24
+http://210.210.155.35/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eW5jriK.png" group-title="UseeTV Playlist",IMC*
+https://dl.dropbox.com/s/pcimgt3f0tbtjly/imc.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="UseeTV Playlist",Mugos
+http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="UseeTV Playlist",News Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8?rizkizakaria/NewsAsia-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5Fi9EVN.png" group-title="UseeTV Playlist",Paytren TV
+http://wowza58.indostreamserver.com:1935/ymtv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/K6aJECJ.png" group-title="UseeTV Playlist",Al Jazeera
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UseYWXT.png" group-title="UseeTV Playlist",Al Quran Kareem
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6wciIO7.png" group-title="UseeTV Playlist",DMI
+http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="I690.28452.schedulesdirect.org" tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="UseeTV Playlist",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://i.imgur.com/BmMPl7b.png" group-title="UseeTV Playlist",Animax
+http://210.210.155.35/dr9445/h/h144/index.m3u8?rizkizakaria-Animax-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/9A3vJHu.png" group-title="UseeTV Playlist",AXN
+http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/S4tAfgm.png" group-title="UseeTV Playlist",Bioskop Indonesia*
+https://dl.dropbox.com/s/fqmxl2idfuvi4jz/bioskopindonesia.m3u8?dl=0
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="UseeTV Playlist",Blue Ant Entertaiment
+http://210.210.155.35/dr9445/h/h16/02.m3u8
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="UseeTV Playlist",Blue Ant Extreme
+http://45.126.83.51/dr9445/h/h15/01.m3u8
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-logo="https://i.imgur.com/f9JjLMQ.png" group-title="UseeTV Playlist",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HyCOcSE.png" group-title="UseeTV Playlist",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1829045216_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-logo="https://i.imgur.com/S6QDK34.png" group-title="UseeTV Playlist",Disney Channel VN
+http://220.158.149.14:9999/live/TV00000000000000000113@HHZT;LIVE
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XUBa6KV.png" group-title="UseeTV Playlist",Dunia anak*
+https://dl.dropbox.com/s/z5vrf0xnnvwuod5/duniaanak.m3u8?dl=0
+#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/sLRyMFz.png" group-title="UseeTV Playlist",Fight Sports
+http://210.210.155.35/uq2663/h/h05/01.m3u8
+#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.imgur.com/OxWwDzR.png" group-title="UseeTV Playlist",HBO HD | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv005.m3u8
+#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://i.imgur.com/wStqxGK.png" group-title="UseeTV Playlist",HBO Family | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv004.m3u8
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://i.imgur.com/XvyFlJF.png" group-title="UseeTV Playlist",HBO Hits | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv007.m3u8
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="UseeTV Playlist",HBO Signature | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv006.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/O2UgYeq.png" group-title="UseeTV Playlist",MTV | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv013.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gEwtf1U.png" group-title="UseeTV Playlist",Flik
+https://dl.dropbox.com/s/kqcjuyu250vin2n/flik.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FDOdcXd.png" group-title="UseeTV Playlist",Galaxy
+https://dl.dropbox.com/s/bf54wwlhsv1xuxg/galaxy.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CgDSDj3.png" group-title="UseeTV Playlist",Oh!K*
+https://dl.dropbox.com/s/3y5iapuliwfk8hh/oh%21k.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/670u3yq.png" group-title="UseeTV Playlist",SBS IN*
+https://dl.dropbox.com/s/oafwbt3qfemneyg/sbsin.m3u8?dl=0
+#EXTINF:-1 tvg-id="WakuWakuJapan.id" tvg-logo="https://i.imgur.com/8013xbr.png" group-title="UseeTV Playlist",Waku Waku Japan*
+https://dl.dropbox.com/s/r8aqjaqzn8vjufp/wakuwaku.m3u8?dl=0
+#EXTINF:-1 tvg-id="WarnerTV.id" tvg-logo="https://i.imgur.com/hQaBwFq.png" group-title="UseeTV Playlist",Warner*
+https://dl.dropbox.com/s/lu9vbxu98sxnrhr/warner.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bU09VB9.png" group-title="UseeTV Playlist",Aniplus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/ZPJaz46.png" group-title="UseeTV Playlist",Bloomberg
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OKJhq2H.png" group-title="UseeTV Playlist",CCTV4
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Agfbih8.png" group-title="UseeTV Playlist",CGTN Documentary
+http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/zWoGk0e.png" group-title="UseeTV Playlist",Dreamworks*
+https://dl.dropbox.com/s/9m8llnou1kokigs/dreamworks.m3u8?dl=0
+#EXTINF:-1 tvg-id="I508.82432.schedulesdirect.org" tvg-logo="https://i.imgur.com/hAKQCbA.png" group-title="UseeTV Playlist",Euronews
+http://210.210.155.35/qwr9ew/s/s15/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="UseeTV Playlist",FashionTV
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5P9XBTy.png" group-title="UseeTV Playlist",K-Plus
+http://210.210.155.35/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UnlikcH.png" group-title="UseeTV Playlist",NHK world Japan
+http://210.210.155.35/uq2663/h/h23/index.m3u8
+#EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="UseeTV Playlist",Sony One
+http://45.126.83.51/uq2663/h/h143/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GibhOyu.png" group-title="UseeTV Playlist",Spacetoon Plus*
+https://dl.dropbox.com/s/4h2dl5itdsjpwwp/spacetoonplus.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HIBk9Yp.png" group-title="UseeTV Playlist",T Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="UseeTV Playlist",Thrilll
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SaOTIpP.png" group-title="UseeTV Playlist",TV5Monde
+http://210.210.155.35/qwr9ew/s/s24/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4LEMQG4.png" group-title="UseeTV Playlist",TVN Movies | Khusus Hardware Decoder
+http://203.207.56.228/live/iptv009.m3u8
