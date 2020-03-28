@@ -1173,7 +1173,7 @@ https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1182084154_b894100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w667901562_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Sport",Usee Sport2
 https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w762994279_b684100_sleng.m3u8
-#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 1
+#EXTINF:-1 tvg-id="FOXSports1.my" tvg-logo=""http://images.noih.tv:25461/images/Astra23picon/1_0_19_17CC_C82_3_EB0000_0_0_0.png" group-title="UseeTV Sport",Fox Sport 1
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w326506344_b494100_sleng.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 2
 https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w229524769_b494100_sleng.m3u8
