@@ -1169,16 +1169,14 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w262233107_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="Beinsport2.id" tvg-logo="https://i.imgur.com/Dsp8IIw.png" group-title="UseeTV Sport",beIN Sport 2
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1182084154_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Sport",Usee Sport*
-https://dl.dropbox.com/s/ghbo9eb2b0w793i/useesport.m3u8?dl=0
-EXTINF:-1 tvg-id="FOXSports1.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 1
-https://dl.dropbox.com/s/pe1cnxt5vczqer1/foxsport2.m3u8?dl=0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Sport",Usee Sport
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w667901562_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w326506344_b494100_sleng.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 2
-EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 2
-https://dl.dropbox.com/s/pe1cnxt5vczqer1/foxsport2.m3u8?dl=0
-https://dl.dropbox.com/s/pe1cnxt5vczqer1/foxsport2.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w229524769_b494100_sleng.m3u8
 #EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="UseeTV Sport",Fox Sport 3
-https://dl.dropbox.com/s/ztboeg6qqbe4fni/foxsport3.m3u8?dl=0
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w742716253_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-id="I218.14899.schedulesdirect.org" tvg-logo="https://i.imgur.com/VYmO8di.png" group-title="UseeTV Sport",Golf+
 https://dl.dropbox.com/s/2baf588i4imy0ux/golf.m3u8?dl=0
 #EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-logo="https://i.imgur.com/ehzozeE.png" group-title="UseeTV Sport",NBA
