@@ -1,6 +1,6 @@
 ﻿#EXTM3U
  
-#EXTINF:-1  tvg-logo=tps:"https://i.imgur.com/wIh3qZo.png" group-title="TV NASIONAL",TVRI
+#EXTINF:-1  tvg-logo=tps:"https://postimg.cc/QFdThLK0/272551ae" group-title="TV NASIONAL",TVRI
 https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w814631736_b684100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/KilYp0O.png" group-title="TV NASIONAL",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1174545310_b894100_sleng.m3u8
