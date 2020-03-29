@@ -140,7 +140,7 @@ http://203.207.56.228/live/iptv005.m3u8
 http://203.207.56.228/live/iptv004.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://i.imgur.com/wStqxGK.png" group-title="Indome TV", HBO Family 1
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://i.imgur.com/XvyFlJF.png" group-title="Indome TV", HBO Hits 
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="Indome TV", HBO Hits 
 http://203.207.56.228/live/iptv007.m3u8
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Indome TV", HBO Signature 
 http://203.207.56.228/live/iptv006.m3u8
