@@ -109,7 +109,7 @@ http://stream1.ninmedia.tv/dmitv/udp.stream_360p/playlist.m3u8
 #EXTINF:-1 tvg-id="I690.28452.schedulesdirect.org" tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="Indome TV", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
 #EXTINF:-1 tvg-id="Animax.id" tvg-logo="https://i.imgur.com/BmMPl7b.png" group-title="Indome TV", Animax
-https://vcdnjt.useetv.com/joss/15/animax/chunklist_w920302113_b984100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w920302113_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="AXN.id" tvg-logo="https://i.imgur.com/9A3vJHu.png" group-title="Indome TV", AXN
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/01.m3u8 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Indome TV", Blue Ant Entertaiment
