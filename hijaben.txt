@@ -17,9 +17,7 @@ https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w446993068_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV HD
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="TV NASIONAL",TV ONE HD
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1812792091_b494100_sleng.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="TV NASIONAL",TV ONE 
-https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1812792091_b494100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1812792091_b684100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL",TRANS7 HD
 https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1726935617_b494100_sleng.m3u8
 #EXTINF:-1  tvg-logo="http://cdn.gresnews.com/showimg.php?size=view&imgname=20121117Logo%20MetroTV-img.web.id.jpg" group-title="TV NASIONAL",METRO TV
