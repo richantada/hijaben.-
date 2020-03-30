@@ -2,7 +2,7 @@
  
 #EXTINF:-1  tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="TV NASIONAL",TVRI
 https://vcdnjt.useetv.com/joss/15/tvri/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/tg9PhcCB/ANTV.png" group-title="TV NASIONAL",ANTV
+#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="TV NASIONAL",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL",INDOSIAR
 https://vcdnjt.useetv.com/joss/15/indosiar/playlist.m3u8
@@ -16,7 +16,7 @@ https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1
 https://vcdnjt.useetv.com/joss/15/sctv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV HD
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
-#EXTINF:-1  tvg-logo="https://i.imgur.com/kGlah4c.png" group-title="TV NASIONAL",TV ONE HD
+#EXTINF:-1  tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="TV NASIONAL",TV ONE HD
 https://vcdnjt.useetv.com/joss/15/tvone/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/YCfxSb39/trans7.png" group-title="TV NASIONAL",TRANS7 HD
 https://vcdnjt.useetv.com/joss/15/trans7/playlist.m3u8
