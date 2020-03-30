@@ -1,7 +1,7 @@
 ﻿#EXTM3U
  
 #EXTINF:-1  tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="TV NASIONAL",TVRI
-https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w814631736_b684100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/tvri/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/tg9PhcCB/ANTV.png" group-title="TV NASIONAL",ANTV
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1019747721_b684100_sleng.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL",INDOSIAR
