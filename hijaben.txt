@@ -4,7 +4,7 @@
 https://vcdnjt.useetv.com/joss/15/tvri/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="TV NASIONAL",ANTV
-https://vcdnjt.useetv.com/joss/15/antv/playlist.m3u8
+https://www.useetv.com/livetv/antv
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL",INDOSIAR
 https://vcdnjt.useetv.com/joss/15/indosiar/playlist.m3u8
