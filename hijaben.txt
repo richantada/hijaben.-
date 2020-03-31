@@ -193,17 +193,17 @@ http://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/54
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yS94M0X.png" group-title="Indome TV", Zhejiang TV 
 http://223.110.241.130:6610/gitv/live1/G_ZHEJIANG-HQ/ZHEJIANG-HQ/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2LS8iY.png" group-title="INDONESIA", MNC TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2LS8iY.png" group-title="MNC GROUP", MNC TV
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2LS8iY.png" group-title="INDONESIA", MNC TV (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L2LS8iY.png" group-title="MNC GROUP", MNC TV (1)
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JK2UPbl.png" group-title="INDONESIA", RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JK2UPbl.png" group-title="MNC GROUP", RCTI
 https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JK2UPbl.png" group-title="INDONESIA", RCTI (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JK2UPbl.png" group-title="MNC GROUP", RCTI (1)
 http://id6.indostreamingtv.com:80/live/rcti/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mzjLGe.png" group-title="INDONESIA", GLOBAL TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mzjLGe.png" group-title="MNC GROUP", GLOBAL TV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mzjLGe.png" group-title="INDONESIA", GLOBAL TV (1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mzjLGe.png" group-title="MNC GROUP", GLOBAL TV (1)
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Jackie Chan Movies
