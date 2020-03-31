@@ -5,6 +5,29 @@ https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="TV NASIONAL",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1,ANTV tvg-images.useetv.com/logo_antv_big1.png" group-title="1. LOKAL ID"ANTV
+http://id2.indostreamingtv.com/live/antv/index.m3u8?token=ireg.m3u8
+ 
+#EXTINF:-1 ANTV1
+https://cdn-livetv2.metube.id/hls/antv_480/index.m3u8
+ 
+#EXTINF:-1 ANTV2
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+ 
+#EXTINF:-1 ANTV3
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
+ 
+#EXTINF:-1 ANTV4
+http://210.210.155.35/session/9d97b132-a94d-11e9-b311-c81f66f89318/qwr9ew/s/s102/02.m3u8
+ 
+#EXTINF:-1 ANTV5
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?
+ 
+#EXTINF:-1 ANTV6
+http://id2.indostreamingtv.com/live/antv/index.m3u8
+ 
+#EXTINF:-1 ANTV7 
+http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL",INDOSIAR
 https://vcdnjt.useetv.com/joss/15/indosiar/playlist.m3u8
