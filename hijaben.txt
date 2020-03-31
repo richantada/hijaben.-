@@ -7,7 +7,7 @@ https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-
 https://vcdnjt.useetv.com/joss/15/antv/chunklist_w226638633_b894100_sleng.m3u8
  
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/QdwWh5Lt/indosiar.png" group-title="TV NASIONAL",INDOSIAR
-https://vcdnjt.useetv.com/joss/15/indosiar/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w922365072_b894100_sleng.m3u8?enc=-I38s01m5W0d6sP69wMNTQ&exp=1585650841
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL",TRANS TV HD
 https://vcdnjt.useetv.com/joss/15/transtv/playlist.m3u8
