@@ -1379,7 +1379,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", B4U MOVIES
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 #EXTINF:-1 tvg-id="Beinsport1.id" tvg-logo="https://i.imgur.com/ys7sROq.png" group-title="UseeTV Sport",beIN Sport 1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w262233107_b894100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w523080819_b1344100_sleng.m3u8?enc=CY6m_NEXbRgX6j2coUhb4Q&exp=1582823596
 #EXTINF:-1 tvg-id="Beinsport2.id" tvg-logo="https://i.imgur.com/Dsp8IIw.png" group-title="UseeTV Sport",beIN Sport 2
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1182084154_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Sport",Usee Sport
