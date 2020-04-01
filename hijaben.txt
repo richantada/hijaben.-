@@ -51,8 +51,6 @@ http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="TV NASIONAL", MNC TV SD
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
-
-
 #EXTINF:-1  tvg-logo="https://i2.wp.com/www.lokernas.id/wp-content/uploads/2019/07/645x430-seni-cnn-indonesia-menggelinding-di-layar-kaca-1506136-58cc17797eafbd42350a7648.jpg?w=640&ssl=1" group-title="TV NASIONAL",CNN INDONESIA HD
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1585454474_b280000_sleng.m3u8?token=ireg.m3u8
 
@@ -921,11 +919,11 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/chunklist_b235200
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="Hiburan", Hits
-http://210.210.155.35/uq2663/h/h37/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="Hiburan", Hits 1
-http://210.210.155.35/session/b664cd50-6b66-11e9-88bd-a3eeb50c438d/uq2663/h/h37/index2.m3u8?fluxustv.m3u8
+http://45.126.83.51/uq2663/h/h37/index2.m3u8
+
 #EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", AXN [ID]
 http://210.210.155.35/uq2663/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", AXN 1 [ID]
 http://210.210.155.35:80/session/37ee409e-73b5-11e9-b657-a0899505893d/uq2663/h/h141/index.m3u8
 #EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", Wau
