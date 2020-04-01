@@ -19,6 +19,9 @@ https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV HD
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="TV NASIONAL",GLOBALTV SD
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_tvone_big1.png" group-title="TV NASIONAL",TV ONE HD
