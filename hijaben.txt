@@ -34,7 +34,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="TV NASIONAL",RTV
-http://210.210.155.35/qwr9ew/s/s12/index2.m3u8?token=ireg.m3u8
+http://210.210.155.35/session/916c75e4-0647-11ea-b42d-c81f66f89318/qwr9ew/s/s12/02.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="TV NASIONAL", KOMPAS TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
