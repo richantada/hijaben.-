@@ -12,7 +12,7 @@ http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/26qvnw4n/transtv.png" group-title="TV NASIONAL",Trans TV HD
 https://livetvhooq.akamaized.net/d47264e2fe8f43848fb79b43915fb298/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1571798094~exp=9007200826539085~acl=/d47264e2fe8f43848fb79b43915fb298/*/profile_0/chunklist.m3u8*~hmac=406ce5a72d357700e9c8c66845e044b3537ffa9f91795a15876033ddf852a143
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="TV NASIONAL",RCTI HD1
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/mrTXLfKB/RCTI.jpg" group-title="TV NASIONAL",RCTI HD1
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/B6ZFwp58/sctv.png" group-title="TV NASIONAL",SCTV
@@ -45,10 +45,10 @@ http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="TV NASIONAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC TV HD
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="TV NASIONAL", MNC TV HD
 http://id6.indostreamingtv.com/live/mnctv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="Nas ID", MNC TV SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/BZD70Q2J/mnctv.png" group-title="TV NASIONAL", MNC TV SD
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 
 
