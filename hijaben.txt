@@ -950,13 +950,13 @@ http://45.126.83.51/qwr9ew/s/s42/index2.m3u8
 http://45.126.83.51/dr9445/h/h16/02.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Hiburan", Blue Ant Entertaiment 1
-http://210.210.155.66/dr9445/h/h16/index2.m3u8
+http://210.210.155.66/dr9445/h/h16/index.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Hiburan", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Hiburan", Blue Ant Extreme 1
-http://210.210.155.66/dr9445/h/h15/index2.m3u8
+http://210.210.155.66/dr9445/h/h15/index.m3u8
 
 #EXTINF:-1 tvg-id=""  tvg-logo="[""]" group-title="Hiburan", Cinemax [ID]
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
