@@ -221,19 +221,6 @@ http://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/54
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yS94M0X.png" group-title="Indome TV", Zhejiang TV 
 http://223.110.241.130:6610/gitv/live1/G_ZHEJIANG-HQ/ZHEJIANG-HQ/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2LS8iY.png" group-title="MNC GROUP", MNC TV
-http://id6.indostreamingtv.com/live/mnctv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L2LS8iY.png" group-title="MNC GROUP", MNC TV (1)
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JK2UPbl.png" group-title="MNC GROUP", RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JK2UPbl.png" group-title="MNC GROUP", RCTI (1)
-http://id6.indostreamingtv.com:80/live/rcti/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mzjLGe.png" group-title="MNC GROUP", GLOBAL TV
-http://id6.indostreamingtv.com/live/tv1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mzjLGe.png" group-title="MNC GROUP", GLOBAL TV (1)
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Jackie Chan Movies
 http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies", Andy Lau Movies
@@ -952,7 +939,7 @@ http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/
 http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K-DRAMA
-http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
+http://210.210.155.35/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="Hiburan", DW (English)
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="Hiburan", DW Channel
