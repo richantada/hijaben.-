@@ -801,8 +801,10 @@ http://wpso.com:1936/hls/kidshd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",The Indonesia Channel
 http://202.93.133.3:1935/svr2/tic.com.stream_720p/chunklist_w752720676.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", CANEL NEWS ASIA HD
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="News", News Asia
+http://210.210.155.35/uq2663/h/h29/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", NBC
 https://d3sjmtxha86r3t.cloudfront.net/nbc/smil:nbc.smil/chunklist_b700000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", THE INDONESIA CHANNEL
@@ -937,8 +939,6 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", Mugos
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="Hiburan", News Asia
-http://210.210.155.35/uq2663/h/h29/01.m3u8?rizkizakaria/NewsAsia-join-telegram=@iptvondemand
 
 #EXTINF:-1 tvg-logo=="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
