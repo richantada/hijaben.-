@@ -817,6 +817,14 @@ http://rr2.dens.tv/s/s17/index2.m3u8
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", SKY NEWS
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="News", DW (English)
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News", Palestine Today
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+
+#EXTINF:-1 tvg-id="I512.60961.schedulesdirect.org" tvg-logo="https://i.imgur.com/rbiqxxR.png" group-title="News", France 24
+http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 
 #EXTINF:-1 group-title="News",  ABC Australia
 https://anevia115.mncnow.id/live/eds/AustraliaPlus/sa_hls/AustraliaPlus-avc1_2499968=10-mp4a_98800_eng=2.m3u8
@@ -932,22 +940,12 @@ http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="Hiburan", News Asia
 http://210.210.155.35/uq2663/h/h29/01.m3u8?rizkizakaria/NewsAsia-join-telegram=@iptvondemand
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K+
+#EXTINF:-1 tvg-logo=="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K+
 http://210.210.155.35/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo=="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K DRAMA
 http://210.210.155.35/qwr9ew/s/s42/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K-DRAMA
-http://210.210.155.35/qwr9ew/s/s42/index.m3u8
-#EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="Hiburan", DW (English)
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="Hiburan", DW Channel
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-b.m3u8?sd=10&rebase;=on
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Palestine Today
-http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
-#EXTINF:-1 tvg-id="I512.60961.schedulesdirect.org" tvg-logo="https://i.imgur.com/rbiqxxR.png" group-title="Hiburan", France 24
-http://210.210.155.35/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Hiburan", Blue Ant Entertaiment
 http://210.210.155.35/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Hiburan", Blue Ant Entertaiment 1
