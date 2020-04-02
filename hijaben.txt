@@ -949,29 +949,30 @@ http://45.126.83.51/qwr9ew/s/s42/index2.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Hiburan", Blue Ant Entertaiment
 http://45.126.83.51/dr9445/h/h16/02.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/LMv2nyP.png" group-title="Hiburan", Blue Ant Entertaiment 1
-http://210.210.155.66/dr9445/h/h16/02.m3u8
-
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Hiburan", Blue Ant Extreme
 http://45.126.83.51/dr9445/h/h15/01.m3u8
 
-#EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/uw1PSeL.png" group-title="Hiburan", Blue Ant Extreme 1
-http://210.210.155.66/dr9445/h/h15/01.m3u8
-
 #EXTINF:-1 tvg-id=""  tvg-logo="[""]" group-title="Hiburan", Cinemax [ID]
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="Hiburan", My Cinema
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+http://210.210.155.69/s/s31/S4/mnf.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Hiburan", Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
 #EXTINF:-1 tvg-id="KIX.id" tvg-logo="https://i.imgur.com/yqqe3C5.png" group-title="Hiburan", KIX
-http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/01.m3u8
+http://210.210.155.66/h/h07/01.m3u8
+
 #EXTINF:-1 tvg-id="Thrill.id" tvg-logo="https://i.imgur.com/mQI2gyp.png" group-title="Hiburan", Thrilll
 http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Hiburan", Celestial Movies
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Hiburan", Celestial Movies 2
 http://45.126.83.51/qwr9ew/s/s33/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KcCWHbk.png" group-title="Hiburan", Celestial Movies 3
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Hiburan", Cinema World
