@@ -940,7 +940,7 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
 
-#EXTINF:-1 tvg-logo=="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5P9XBTy.png" group-title="Hiburan", K+
 http://45.126.83.51/uq2663/h/h08/01.m3u8
 
 #EXTINF:-1 tvg-logo=="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K DRAMA
@@ -977,59 +977,57 @@ http://45.126.83.51/qwr9ew/s/s33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Hiburan", Cinema World
 http://210.210.155.35/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Hiburan", CinemaWorld 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHCOcuF.png" group-title="Hiburan", CinemaWorld 2
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", RTM 1
-http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", RTM 2
-http://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.id" tvg-logo="https://i.imgur.com/ZXaRN1y.png" group-title="Hiburan", Disney Junior ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z4dLHlP.png" group-title="Hiburan", Dongnan TV
 http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
-#EXTINF:-1 tvg-id="HBO.id" tvg-logo="https://i.imgur.com/OxWwDzR.png" group-title="Hiburan", HBO HD
-http://203.207.56.228/live/iptv005.m3u8
-#EXTINF:-1 tvg-id="HBOFamily.id" tvg-logo="https://i.imgur.com/wStqxGK.png" group-title="Hiburan", HBO Family
-http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-logo="https://i.imgur.com/XvyFlJF.png" group-title="Hiburan", HBO Hits
-http://203.207.56.228/live/iptv007.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Hiburan", HBO Signature
-http://203.207.56.228/live/iptv006.m3u8
+
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Hiburan",HBO Signature [ID]
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=B4361172F7C80347D7CB7A824A7E050E6255F83E&profile=pass
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Bein Series HD 1
-http://95.170.215.120/hls/m3u8/BeinSeries1.m3u8
+
 #EXTINF:-1 tvg-id="I690.28452.schedulesdirect.org" tvg-logo="https://i.imgur.com/BStW7wi.png" group-title="Hiburan", Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?
+
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/ZPJaz46.png" group-title="Hiburan", Bloomberg
 http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/index1.m3u8
+
 #EXTINF:-1 tvg-id="BloombergTV.us" tvg-logo="https://i.imgur.com/ZPJaz46.png" group-title="Hiburan", Bloomberg 1
 http://210.210.155.35/session/a1876b84-11cc-11e9-a55e-c81f66f89318/uq2663/h/h03/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OKJhq2H.png" group-title="Hiburan", CCTV4
 http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Agfbih8.png" group-title="Hiburan", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7uPKpZf.png" group-title="Hiburan", Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
+
 #EXTINF:-1 tvg-id="I508.82432.schedulesdirect.org" tvg-logo="https://i.imgur.com/hAKQCbA.png" group-title="Hiburan", Euronews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Hiburan", HOME&LIVING
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Hiburan", Foodie Channel
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5UrhzAT.png" group-title="Hiburan", FashionTV
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist_b1400000_t64NDgwcA==.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5P9XBTy.png" group-title="Hiburan", K-Plus
 http://210.210.155.35/uq2663/h/h08/01.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UnlikcH.png" group-title="Hiburan", NHK world Japan
 http://210.210.155.35/uq2663/h/h23/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Hiburan", Shenzhen TV
 http://223.110.241.130:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Hiburan", Sony GEM
 http://rr.dens.tv/h/h19/index.m3u8?rizkizakaria-Sony-Gem-join-telegram=@iptvondemand
+
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="Hiburan", Sony One
 http://45.126.83.51/uq2663/h/h143/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SaOTIpP.png" group-title="Hiburan", TV5Monde
 http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4LEMQG4.png" group-title="Hiburan", TVN Movies
