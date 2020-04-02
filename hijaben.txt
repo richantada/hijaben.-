@@ -931,25 +931,26 @@ http://45.126.83.51/uq2663/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_axn_big.png" group-title="Hiburan", AXN [ID]
 http://210.210.155.66/h/h141/01.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Hiburan", Zee Bioskop
-http://rr2.dens.tv/s/s32/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Hiburan", Zee Bioskop 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVqhAup.png" group-title="Hiburan", Zee Bioskop
 http://rr2.dens.tv/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-id="https://tvkita.my.id/img/lifetime.png" tvg-logo="" group-title="Hiburan",Home & Living
+#EXTINF::-1 tvg-logo="https://i.imgur.com/fEwwNW4.png" group-title="Hiburan",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Sony Gem
+#EXTINF:-1 tvg-logo="" group-title="Hiburan", Sony Gem
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", Mugos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", Mugos
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="Hiburan", News Asia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GVKmSKP.png" group-title="Hiburan", News Asia
 http://210.210.155.35/uq2663/h/h29/01.m3u8?rizkizakaria/NewsAsia-join-telegram=@iptvondemand
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K+
 http://210.210.155.35/session/ae30bcaa-0c95-11e9-8e7a-c81f66f89318/uq2663/h/h08/01.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K DRAMA
+
+#EXTINF:-1 tvg-logo=="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K DRAMA
 http://210.210.155.35/session/50583bd2-e57e-11e8-8760-b82a72d63267/qwr9ew/s/s42/index2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", K-DRAMA
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-id="DeutscheWelleEn.de" tvg-logo="https://i.imgur.com/etFjDoa.png" group-title="Hiburan", DW (English)
