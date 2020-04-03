@@ -955,6 +955,9 @@ http://45.126.83.51/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="[""]" group-title="Hiburan", Cinemax [ID]
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=4D1FD81951345C2BE9E1456D3DFA5E82D535A8FA&profile=pass
 
+#EXTINF:-1 tvg-id=""  tvg-logo="[""]" group-title="Hiburan", Cinemax 
+http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t0wFGfe.png" group-title="Hiburan", My Cinema
 http://210.210.155.69/s/s31/S4/mnf.m3u8
 
