@@ -200,8 +200,7 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Indome TV", Shenzhen TV 
 http://223.110.241.130:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Indome TV", Sony GEM
-http://rr.dens.tv/h/h19/index.m3u8?rizkizakaria-Sony-Gem-join-telegram=@iptvondemand
+
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="Indome TV", Sony One
 http://45.126.83.51/uq2663/h/h143/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HIBk9Yp.png" group-title="Indome TV", T Music
@@ -1025,8 +1024,8 @@ http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Hiburan", Shenzhen TV
 http://223.110.241.130:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Hiburan", Sony GEM
-http://rr.dens.tv/h/h19/index.m3u8?rizkizakaria-Sony-Gem-join-telegram=@iptvondemand
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Indome TV", Sony GEM
+http://45.126.83.51/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="Hiburan", Sony One
 http://45.126.83.51/uq2663/h/h143/index.m3u8
