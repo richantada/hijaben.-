@@ -983,9 +983,6 @@ http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.id" tvg-logo="https://i.imgur.com/ZXaRN1y.png" group-title="Hiburan", Disney Junior ID
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z4dLHlP.png" group-title="Hiburan", Dongnan TV
-http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
-
 #EXTINF:-1 tvg-id="HBOSignature.id" tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Hiburan",HBO Signature [ID]
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=B4361172F7C80347D7CB7A824A7E050E6255F83E&profile=pass
 
@@ -1003,9 +1000,6 @@ http://210.210.155.35/qwr9ew/s/s19/01.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Agfbih8.png" group-title="Hiburan", CGTN Documentary
 http://210.210.155.35/qwr9ew/s/s20/01.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7uPKpZf.png" group-title="Hiburan", Egg Network
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 
 #EXTINF:-1 tvg-id="I508.82432.schedulesdirect.org" tvg-logo="https://i.imgur.com/hAKQCbA.png" group-title="Hiburan", Euronews
 http://210.210.155.35/qwr9ew/s/s15/01.m3u8
@@ -1042,20 +1036,7 @@ http://livecdnh1.TVanywhere.ae:80/hls/star_movies/05.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Chutv
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", MOVIES 3
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", MOVIES 6
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", MOVIES 9
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", MOVIES 11
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G Tianjin-Ho
-http://223.110.241.130:6610/gitv/live1/G_TIANJIN-HQ/G_TIANJIN-HQ/
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", Dongnans TV
-http://223.110.241.130:6610/cntv/live1/dongnanstv/dongnanstv
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G Ningxia
-http://223.110.241.130:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
+
 #EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", Dongfang-Ho
 http://223.110.241.130:6610/gitv/live1/G_DONGFANG-HQ/G_DONGFANG-HQ/
 #EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", PL TV
