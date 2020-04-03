@@ -1,7 +1,7 @@
 ﻿#EXTM3U
  
 #EXTINF:-1  tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="TV NASIONAL",TVRI
-https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
+http://210.210.155.35/qwr9ew/s/s11/02.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="TV NASIONAL",ANTV
 http://id1.indostreamingtv.com/live/antv/index.m3u8
@@ -40,7 +40,7 @@ https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-
 http://210.210.155.35/qwr9ew/s/s12/02.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="TV NASIONAL", KOMPAS TV
-http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+http://210.210.155.35/session/qwr9ew/s/s104/01.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="TV NASIONAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
