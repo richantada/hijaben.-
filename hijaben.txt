@@ -933,8 +933,6 @@ http://rr2.dens.tv/s/s32/01.m3u8
 #EXTINF::-1 tvg-logo="https://i.imgur.com/fEwwNW4.png" group-title="Hiburan",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Hiburan", Sony Gem
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDpcQ0t.png" group-title="Hiburan", Mugos
 http://streaming.mas-mas.it:1935/live/myStream/master.m3u8
 
@@ -1024,7 +1022,7 @@ http://210.210.155.35/uq2663/h/h23/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Hiburan", Shenzhen TV
 http://223.110.241.130:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Indome TV", Sony GEM
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Hiburan", Sony GEM
 http://45.126.83.51/uq2663/h/h19/01.m3u8
 
 #EXTINF:-1 tvg-id="SonyOne.id" tvg-logo="https://i.imgur.com/ffue1bz.png" group-title="Hiburan", Sony One
