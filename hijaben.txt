@@ -1013,9 +1013,6 @@ http://210.210.155.35/uq2663/h/h08/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UnlikcH.png" group-title="Hiburan", NHK world Japan
 http://210.210.155.35/uq2663/h/h23/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ta1M9wY.png" group-title="Hiburan", Shenzhen TV
-http://223.110.241.130:6610/gitv/live1/G_SHENZHEN-HQ/G_SHENZHEN-HQ/
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KhKEOwu.png" group-title="Hiburan", Sony GEM
 http://45.126.83.51/uq2663/h/h19/01.m3u8
 
@@ -1028,6 +1025,7 @@ http://210.210.155.35/qwr9ew/s/s24/01.m3u8
 http://203.207.56.228/live/iptv009.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", MediaCorp
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/yS94M0X.png" group-title="Hiburan", Zhejiang TV
 http://223.110.241.130:6610/gitv/live1/G_ZHEJIANG-HQ/ZHEJIANG-HQ/
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", STAR MOVIES HD
@@ -1037,40 +1035,12 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Chutv
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
 
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", Dongfang-Ho
-http://223.110.241.130:6610/gitv/live1/G_DONGFANG-HQ/G_DONGFANG-HQ/
 #EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", PL TV
 http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G Xiamen
-http://223.110.241.130:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G Qinghai
-http://223.110.241.130:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", CN TV
-http://223.110.241.130:6610/cntv/live1/anhuistv/anhuistv
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G ChongQing TV
-http://223.110.241.130:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G Jilin
-http://223.110.241.130:6610/gitv/live1/G_JILIN/G_JILIN/
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", Hoo
-http://203.207.56.228/live/iptv004.m3u8
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", UHLS
-http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
-#EXTINF:-1 tvg-logo="[""]" group-title="Hiburan", G Yunnan
-http://223.110.241.130:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Blue Ant Entertainment
-http://45.126.83.51/dr9445/h/h16/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Ray Movie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", First Movie
-http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", Celestial Clasic Movie MY
-http://iliketot.dyndns.tv/1c2276a2f1884b269ce281c3334e8f85.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1Nzo0OCBBTSZoYXNoX3ZhbHVlPVAwSk5CRlBPTGwvRXJDRFMrTFZBS0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMnx1cGxheXwxNTI4MjUzODY4fDIwMi4yOC40MS4xNDQ=
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", WOWOW MOVIES
-http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", STAR CHINESE MOVIES LEGEND
-http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", CBS
 http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
 
