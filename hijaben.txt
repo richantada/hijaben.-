@@ -4,8 +4,7 @@ http://iptvpro.vision-new.org:8789/get.php?username=sabri&password=skype&type=m3
 
  
 #EXTINF:-1  tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="TV NASIONAL",TVRI
-http://210.210.155.35/qwr9ew/s/s11/02.m3u8
-
+https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="TV NASIONAL",ANTV
 http://id1.indostreamingtv.com/live/antv/index.m3u8
  
@@ -1052,6 +1051,8 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B39138F5DEF9CCED9C0
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hiburan", B4U MOVIES
 http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="INDONESIA",TVRI SPORT
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-id="Beinsport1.id" tvg-logo="https://i.imgur.com/ys7sROq.png" group-title="UseeTV Sport",beIN Sport 1
 https://vcdnjt.useetv.com/joss/15/bein1/.m3u8
