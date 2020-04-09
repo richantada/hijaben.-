@@ -1054,23 +1054,23 @@ http://103.199.161.254/Content/b4umovies/Live/Channel(B4UMovies)/Stream(01)/inde
 
 
 #EXTINF:-1 tvg-id="Beinsport1.id" tvg-logo="https://i.imgur.com/ys7sROq.png" group-title="UseeTV Sport",beIN Sport 1
-https://vcdnjt.useetv.com/joss/15/bein1/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/bein1/.m3u8
 #EXTINF:-1 tvg-id="Beinsport2.id" tvg-logo="https://i.imgur.com/Dsp8IIw.png" group-title="UseeTV Sport",beIN Sport 2
-https://vcdnjt.useetv.com/joss/15/bein2/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/bein2/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Sport",Usee Sport
-https://vcdnjt.useetv.com/joss/15/useesport/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/useesport/.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AE7dc43.png" group-title="UseeTV Sport",Usee Sport2
-https://vcdnjt.useetv.com/joss/15/useesports2/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/useesports2/.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://img.favpng.com/10/2/1/fox-sports-1-fox-sports-2-fox-sports-networks-png-favpng-wuE08hW6VUnSF4uJJ6UeUPqqz.jpg" group-title="UseeTV Sport",Fox Sport 1
-https://vcdnjt.useetv.com/joss/15/foxsport1/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/foxsport1/.m3u8
 #EXTINF:-1 tvg-id="FOXSports2.my" tvg-logo="https://i.imgur.com/n3ieiWB.png" group-title="UseeTV Sport",Fox Sport 2
-https://vcdnjt.useetv.com/joss/15/foxsport2/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/foxsport2/.m3u8
 #EXTINF:-1 tvg-id="FOXSports3.my" tvg-logo="https://i.imgur.com/VouoBXj.png" group-title="UseeTV Sport",Fox Sport 3
-https://vcdnjt.useetv.com/joss/15/foxsport3/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/foxsport3/.m3u8
 #EXTINF:-1 tvg-id="I218.14899.schedulesdirect.org" tvg-logo="https://i.imgur.com/VYmO8di.png" group-title="UseeTV Sport",Golf+
-https://vcdnjt.useetv.com/joss/15/golfplus/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/golfplus/.m3u8
 #EXTINF:-1 tvg-id="I216.32281.schedulesdirect.org" tvg-logo="https://i.imgur.com/ehzozeE.png" group-title="UseeTV Sport",NBA
-https://vcdnjt.useetv.com/joss/15/nba/playlist.m3u8
+https://vcdnjt.useetv.com/joss/15/nba/.m3u8
 #EXTINF:-1 tvg-id=""  tvg-logo="https://i.imgur.com/sLRyMFz.png" group-title="UseeTV Sport",Fight Sports
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF: -1 tvg-logo = "https://www.fightsports.tv/wp-content/uploads/fightsports280.jpg" group-title="UseeTV Sport", Fight Sport
