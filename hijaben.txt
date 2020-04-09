@@ -3,7 +3,7 @@
 http://iptvpro.vision-new.org:8789/get.php?username=sabri&password=skype&type=m3u
 
  
-#EXTINF:-1  tvg-logo="https://i.imgur.com/b7DOpCH.png" group-title="TV NASIONAL",TVRI
+#EXTINF:-1  tvg-logo="logo="https://i.ibb.co/2s2qKQj/tvri.png" group-title="TV NASIONAL",TVRI
 https://anevia115.mncnow.id:443/live/eds/PemersatuBangsa/sa_hls/PemersatuBangsa-avc1_1000000=6-mp4a_98800_eng=5.m3u8
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_antv_big1.png" group-title="TV NASIONAL",ANTV
 http://id1.indostreamingtv.com/live/antv/index.m3u8
