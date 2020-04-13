@@ -39,10 +39,10 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_rtv_big1.png" group-title="TV NASIONAL",RTV
-http://210.210.155.35/qwr9ew/s/s12/02.m3u8
+https://epl-inews.mncnow.id:443/live/eds/RTV/sa_hls/RTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_kompastv_big1.png" group-title="TV NASIONAL", KOMPAS TV
-http://210.210.155.35/qwr9ew/s/s104/01.m3u8
+https://epl-inews.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 #EXTINF:-1  tvg-logo="http://images.useetv.com/logo_beritasatu_big1.png" group-title="TV NASIONAL",BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
